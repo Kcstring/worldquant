@@ -1,0 +1,12 @@
+# Secrets and local credentials
+*.env
+.env*
+*credential*
+*secret*
+*token*
+*.pem
+*.key
+
+# Python and notebook caches
+__pycache__/
+.ipynb_checkpoints/
